@@ -23,7 +23,8 @@ const ITEMS: GalleryItem[] = [
   { type: "image", src: "/3.jpeg", alt: "AlYousef Tower Render 3" },
   { type: "image", src: "/4.jpeg", alt: "AlYousef Tower Render 4" },
   { type: "image", src: "/5.jpeg", alt: "AlYousef Tower Render 5" },
-  { type: "image", src: "/6.jpeg", alt: "AlYousef Tower Render 6" },
+  { type: "image", src: "/6.jpeg", alt: "AlYousef Tower" },
+  { type: "image", src: "/7.jpeg", alt: "AlYousef Tower Location" },
 ];
 
 export default function GalleryPage() {
