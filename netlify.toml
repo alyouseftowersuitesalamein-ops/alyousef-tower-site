@@ -1,5 +1,5 @@
 [build]
-command = "npm run build"
+command = "npx @netlify/plugin-nextjs build"
 publish = ".output/public"
 
 [[plugins]]
