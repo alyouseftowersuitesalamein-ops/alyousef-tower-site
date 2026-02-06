@@ -1,7 +1,0 @@
-[build]
-base = "src"
-command = "npx @netlify/plugin-nextjs build"
-publish = ".output/public"
-
-[[plugins]]
-package = "@netlify/plugin-nextjs"
